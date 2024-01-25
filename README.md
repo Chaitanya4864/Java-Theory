@@ -28,3 +28,6 @@ D. OOP helps to keep the Java code DRY ("Don't repeat yourself") and makes the c
 E. OOP makes it possible to create fully reusable applications with less code & shorter development time.
 
 WHY THE NAME JAVA? WHAT IS THE PREVIOUS NAME OF THIS PROGRAMMING LANGUAGE?
+
+
+
